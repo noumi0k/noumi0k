@@ -1,4 +1,7 @@
-### Hi there 👋
+[![](https://raw.githubusercontent.com/noumi0k/noumi0k/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/noumi0k/noumi0k/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 <!--
 **noumi0k/noumi0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
