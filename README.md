@@ -1,6 +1,12 @@
 [![](https://raw.githubusercontent.com/noumi0k/noumi0k/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<!-- 
+下記リポジトリで`use this template`
+https://github.com/vn7n24fzkq/github-profile-summary-cards-example
 
+その後は下記自動生成されたディレクトリ以下READMEにあるMarkdown記法のサンプルをコピーして利用する
+https://github.com/noumi0k/noumi0k/blob/master/profile-summary-card-output/README.md
+-->
 
 
 <!--
