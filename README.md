@@ -1,6 +1,5 @@
 # Profile
-**id**: noumi0k
-
+**id**: noumi0k  
 **Name**: Hidemichi Kumazawa  
 **Date of Birth**: December 1, 1992  
 **Place of Birth**: Kanagawa Prefecture, Japan  
@@ -12,7 +11,7 @@
 - **2022**: Released the app "Telemo" which allows users to talk with their favorite personalities
 - **2024**: Launched "Horiemon AI School" in collaboration with Takafumi Horie
 
-**Publications**: [ChatGPTと学ぶPython入門](https://amzn.to/3Srzph4)
+**Publications**: [ChatGPTと学ぶPython入門](https://amzn.to/3Srzph4)  
 **Hobbies**:
 - Cutting-edge technology
 - Enthusiastic culture
